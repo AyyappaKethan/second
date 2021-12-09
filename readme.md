@@ -9,5 +9,5 @@ characters in naruto:
 naruto
 sasuke
 kakashi
-shikamaru
 sakura
+gi d
