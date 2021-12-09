@@ -10,4 +10,4 @@ naruto
 sasuke
 kakashi
 sakura
-gi d
+shikamaru
